@@ -214,7 +214,25 @@ def etape4_analyses(df: pd.DataFrame):
     print(age_moyen_par_survie, "\n")
 
 
+#🟢 ÉTAPE 5 — Insights écrits (TRÈS IMPORTANT)
 
+
+#Dans phase2_observations.md, écrire :
+
+
+#5 insights clairs et chiffrés
+
+
+#pas de code
+
+
+#langage métier
+
+
+#Exemple :
+
+
+#Les femmes ont un taux de survie environ 4 fois supérieur aux hommes.
 
 
 
